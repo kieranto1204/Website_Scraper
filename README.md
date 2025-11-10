@@ -9,7 +9,7 @@ Part 1:
 
 Part 2:
 - Inspect and scrape the elements present on the "Mars Temperature Data Site" (URL: https://static.bc-edx.com/data/web/mars_facts/temperature.html)
-- Use a Beautiful soup objhect to scrape the data into an html table.
+- Use a Beautiful soup object to scrape the data into an html table.
 - Create a Pandas DataFrame, and for columns use the columns on the website (id, terrestrial_data, sol, ls, month, min_temp, pressure)
 - Convert data types for the columns to the appropriate data types.
 - Analyze and graph the minimum temperature per month on mars and the atmospheric pressure per month on mars.
