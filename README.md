@@ -1,4 +1,4 @@
-For this challenge I don't believe there is any special set up, as long as you properly clone this repo you should be able to run the code in your coding language of chaoice.
+For this challenge I don't believe there is any special set up, as long as you properly clone this repo you should be able to run the code in your coding language of choice.
 
 This challenge was split in 2 parts and focused on having us scrape information from a site, based around Mars news and temperature/atmospheric pressure.
 
