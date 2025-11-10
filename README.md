@@ -4,7 +4,7 @@ This challenge was split in 2 parts and focused on having us scrape information 
 
 Part 1:
 - Identify the elements on the "Mars news site"
-- Extract the text elements using Beutiful Soup
+- Extract the text elements using Beautiful Soup
     - Store Python dictionaries for both title and preview.
 
 Part 2:
